@@ -1,0 +1,24 @@
+Sample Test Cases
+Query: "total revenue"
+
+Company: Apple
+
+Year: 2023
+
+Response: "Apple's total revenue in 2023 was $383.285B."
+
+Query: "net income change"
+
+Company: Tesla
+
+Year: 2023
+
+Response: "Tesla's net income increased by 19.5% from 2022 to 2023."
+
+Query: "revenue growth"
+
+Company: Microsoft
+
+Year: 2022
+
+Response: "Microsoft's revenue increased by 18.0% from 2021 to 2022."
